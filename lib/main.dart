@@ -7,7 +7,7 @@ import 'package:project_flutter/features/layout/presentation/manager/cubit.dart'
 import 'package:project_flutter/features/layout/presentation/pages/shop_layout.dart';
 import 'package:project_flutter/features/login/shop_login_screen.dart';
 import 'package:project_flutter/features/on_boarding/presentation/pages/on_boarding.dart';
-
+// amr
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   Bloc.observer = MyObserver();
